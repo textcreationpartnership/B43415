@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A law of Maryland concerning religion</title>
+            <title>Laws, etc.</title>
+            <author>Maryland.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43415</idno><idno type="EEBO-CITATION">489260594</idno>
+  <idno type="VID">208636</idno>
+  <idno type="EEBO-PROQUEST">2248521475</idno>
+  
+            <idno type="OCLC"> 489260594</idno>
+            <idno type="OCLC">ocn 489260594</idno>
+            <idno type="STC">Wing M897</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43415)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208636)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2955:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A law of Maryland concerning religion</title>
+                  <title>Laws, etc.</title>
+                  <author>Maryland.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: New York Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Freedom of religion --  Maryland --  Law and legislation --  Early works to 1800.</term>
+               <term type="topical_term">Blasphemy --  Maryland --  Law and legislation --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="law">
+            <pb facs="tcp:208636:1"/>
+            <pb facs="tcp:208636:2"/>
+            <head>A LAW OF MARYLAND Concerning RELIGION.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as in a well-governed and Christian Commonwealth, Matters concerning Religion and the Honour of God ought to be in the first pla<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to be taken into serious consideration, and endeavoured to be settled. Be it therefore Ordained and Enacted by the Right Honourable <hi>CAECILIUS</hi> Lord Baron of <hi>Baltemore,</hi> absolute Lord and Proprietary of this Province, with the Advice and Consent of the Upper and Lower House of this General Assembly, That whatsoever person or persons within this Province and the Islands thereunto belonging, shall from henceforth blaspheme GOD, that is curse him; or shall deny our Saviour JESUS CHRIST to be the Son of God; or shall deny the Holy Trinity, the Father, Son, &amp; Holy Ghost; or the Godhead of any of the said Three Persons of the Trinity, or the Unity of the Godhead, or shall use or utter any reproachful speeches, words, or language, concerning the Holy Trinity, or any of the said three Persons thereof, shall be pu<g ref="char:EOLhyphen"/>nished with death, and confiscation or forfeiture of all his or her Lands and Goods to the Lord Proprietary and his Heirs.</p>
+            <p>And be it also enacted by the Authority, and with the advice and assent aforesaid, That whatsoever person or persons shall from henceforth use or utter any reproachful words or speeches concerning the blessed Virgin <hi>MARY,</hi> the Mother of our Saviour, or the holy Apostles or Evangelists, or any of them, shall in such case for the first Offence forfeit to the said Lord Proprietary and his Heirs, Lords and Proprietaries of this Province, the sum of Five pounds Sterling, or the value thereof to be levied on the goods and chattels of every such person so offending; but in case such offender or offenders shall not then have goods and chattels sufficient for the satisfying of such forfeiture, or that the same be not otherwise speedily satisfied, that then such offender or offend<g ref="char:EOLhyphen"/>ers shall be publickly whipt, and be imprisoned during the pleasure of the Lord Proprietary, or the Lieutenant or Chief Governor of this Province for the time being: And that every such offender and offenders for every second offence shall forfeit Ten Pounds Sterling, or the value thereof to be levied as afore<g ref="char:EOLhyphen"/>said; or in case such offender or offenders shall not then have goods and chattels within this Province sufficient for that purpose, then to be publickly and severely whipt and imprisoned as before is expressed: and that every person or persons before mentioned, offending herein the third time, shall for such third offence, forfeit all his lands and goods, and be for ever banisht and expelled out of this Province.</p>
+            <p>And be it also further Enacted by the same Authority, advice, and assent, That what soever person or persons shall from henceforth upon any occasion of offence, or otherwise in a reproachful manner or way, declare, call, or denominate, any person or persons whatsoever, inhabiting, residing, trafficking, tra<g ref="char:EOLhyphen"/>ding, or commercing within this Province, or within any the Ports, Harboars, Creeks or Havens to the same belonging, an Heretick, Schismatick, Idolater, Pu<g ref="char:EOLhyphen"/>ritan, Presbyterian, Independant, Popish Priest, Jesuit, Jesuited Papist, Lutheran, Calvinist, Anabaptist, Brownist, Barrowist, Antinomian, Roundhead, Separatist, or other name or term in a reproachfull manner relating to matter of Religion, shall for every such offence forfeit and lose the sum of Ten shillings Sterling, or the value thereof, to be levied of the goods and chattells of every such offender and offenders, the one half thereof to be forfeited and paid unto the person &amp; persons of whom such reproachful words are, or shall be spoken or uttered, and the other half thereof to the Lord Proprietary and his Heirs, Lords and Pro<g ref="char:EOLhyphen"/>prietaries of this Province: But if such person or persons who shall at any time uttter or speak any such reproachful words or language, shall not have goods or chattels sufficient and overt within this Province to be taken to satisfy the penalty aforesaid, or that the same be not otherwise speedily satisfied, that then the person and persons so offending shall be publickly whipt, and shall suffer imprisonment without Bail or Mainprise untill he, she, or they, respectively, shall satisfie the party offended or grieved by such reproachfull Language, by asking him or her respectively forgiveness publickly, for such his offence, before the Magistrate or chief Officer or Officers of the Town or place where such offence shall be given.</p>
+            <p>And be further likewise enacted by the authority and consent aforesaid, that every person and persons within this Province, that shall at any time hereaf<g ref="char:EOLhyphen"/>ter prophane the Sabbath, or Lords day, called Sunday, by frequent swearing, drunkenness, or by any uncivil or disorderly Recreation, or by working on that day when absolute necessity doth not require, shall for every such first offence forfeit two shillings six pence Sterling, or the value thereof; and for the second offence five shillings Sterling, or the value thereof; and for the third offence, and for every time he shall offend in like manner afterwards, Ten shil<g ref="char:EOLhyphen"/>lings Sterling, or the value thereof; and in case such offender or offenders shall not have sufficient goods or chattels within this Province to satisfy any of the aforesaid penalties respectively hereby imposed for prophaning the Sabbath or Lords day called Sunday as aforesaid, then in every such case the party so offending shall for the first and second offence in that kind be imprisoned till he or she shall publickly in open Court before the chief Commander, Judge or Magistrate of that County, Town, or Precinct wherein such offence shall be committed, acknowledge the scandal and offence he hath in that respect given, against God, and the good and civil Government of this Province: and for the third offence and for every time after shall also be publickly whipt.</p>
+            <p>And whereas the inforcing of the Conscience in matter of Religion hath frequently fallen out to be of dangerous consequence in those Commonwealths where it hath been practised, and for the more quiet and peaceable Government of this Province, and the better to preserve mutual love &amp; unity amongst the Inhabitants here, Be it therefore also by the Lord Proprietary with the advice and assent of this Assembly, ordained and enacted, except as in this present Act is before declared and set forth, that no person or persons whatsoever within this Province, or the Islands, Ports, Harbors, Creeks, or Havens thereunto be<g ref="char:EOLhyphen"/>longing, professing to believe in Jesus Christ, shall from henceforth be any ways troubled, molested, or discountenanced, for, or in respect of his or her Re<g ref="char:EOLhyphen"/>ligion nor in the free exercise thereof within this Province or the Islands thereunto belonging, nor any way compell'd to the belief or exercise of any other Re<g ref="char:EOLhyphen"/>ligion, against his or her consent, so as they be not unfaithfull to the Lord Proprietary, or molest or conspire against the civil Government, established or to be established in this Province under him and his Heirs. And that all and every person and persons that shall presume contrary to this Act and the true intent &amp; meaning thereof, directly or indirectly, either in person or estate, wilfully to wrong, disturb, or trouble, or molest any person or persons whatsoever within this Province, professing to be believe in Jesus Christ, for or in respect of his or her Religion, or the free exercise thereof within this Province, otherwise then is pro<g ref="char:EOLhyphen"/>vided for in this Act, that such person or persons so offending shall be compelled to pay treble damages to the party so wronged or molested, and for every such offence shall also forfeit Twenty shillings Sterling in Money, or the value thereof, half thereof for the use of the Lord Proprietary and his Heirs, Lords and Pro<g ref="char:EOLhyphen"/>prietaries of this Province, and the other half thereof for the use of the Party so wronged or molested as aforesaid; or if the party so offending as aforesaid, shall refuse or be unable to recompence the party so wronged, or to satisfy such fine or forfeiture, then such offender shall be severely punished by publick whipping and imprisonment during the pleasure of the Lord Proprietary or his Lieutenant or chief Governor of this Province for the time being, without Bail or Mainprise.</p>
+            <p>And be it further also enacted by the authority and consent aforesaid, that the Sheriff or other Officer or Officer from time to time to be appointed and au<g ref="char:EOLhyphen"/>thorized for that purpose of the County, Town, or Precinct where every particular offence in this present Act contained, shall happen at any time to be com<g ref="char:EOLhyphen"/>mitted, and whereupon there is hereby a forfeiture, fine, or penalty imposed, sha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l from time to time distrain, and seize the goods and estate of every such person so offending as aforesaid against this present Act or any part thereof, and sell the same or any part thereof for the full satisfaction of such forfeiture, fine, or penalty as aforesaid, restoring to the party so offending, the remainder or over plus of the said goods or estate, after such satisfaction so made as aforesaid.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
